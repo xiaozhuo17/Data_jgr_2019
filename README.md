@@ -1,1 +1,1 @@
-# Data_jgr_2019
+# Seismic model of Tibetan Plateau "TP2019"
